@@ -1,0 +1,24 @@
+{
+  "name": "practica-obligatoria",
+  "version": "1.0.0",
+  "description": "Web application about the management of university events",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiguelMA30/EventsAW.git"
+  },
+  "author": "MiguelMA30",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelMA30/EventsAW/issues"
+  },
+  "homepage": "https://github.com/MiguelMA30/EventsAW#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
