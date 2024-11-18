@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MiguelMA30/EventsAW.git"
+    "url": "git+https://github.com/MiguelMA30/EventsAW.git"
   },
   "author": "MiguelMA30",
   "license": "ISC",
